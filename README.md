@@ -1,4 +1,4 @@
-node-js-hello-word
+node-js-hello-world
 ==================
 
-simple hello word with node js
+simple hello world with node js
